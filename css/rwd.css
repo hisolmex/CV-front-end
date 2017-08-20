@@ -1,0 +1,207 @@
+@media (max-width: 1140px) {
+    body section.formation {
+        display: none;
+    }
+    body section.formation h3 {
+        text-align: center;
+    }
+    body section.formation {
+        min-height: 930px;
+        margin-bottom: 110px;
+    }
+    body section.formation2 {
+        display: inline-block;
+        width: 100%;
+    }
+}
+@media (max-width: 1115px) {
+    body section.experience .experience--white-box.left-arrow .experience--white-box-col2 {
+        border-bottom: none;
+        border-right: none;
+        max-width: 134px;
+    }
+    body section.experience .experience--white-box .experience--white-box-col1 {
+        border-right: none;
+    }
+
+}
+@media (min-width: 1060px) {
+    body section.formation {
+        padding: 12px;
+    }
+    body header.header {
+        padding: 12px;
+    }
+
+}
+@media (max-width: 1060px) {
+    body header.header .row.border-line .person {
+        float: none;
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    body header.header .row.border-line .person--info {
+        text-align: center;
+        display: inline-block;
+        width: 100%;
+    }
+    body header.header .row.border-line .person--photo {
+        float: none;
+        display: block;
+        width: 100%;
+        margin: 0;
+        text-align: center;
+    }
+    body header.header .row.border-line .person--photo .person--photo--item {
+        float: none;
+        margin-bottom: 30px;
+
+    }
+    body section {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    body section.formation {
+        padding-top: 20px;
+    }
+}
+@media (max-width: 980px) {
+    body .col-6 {
+        width: 100%;
+    }
+    body h3 {
+        text-align: center;
+        margin-left: 0;
+    }
+    body section.experience .experience--white-box.left-arrow {
+        display: none;
+    }
+    body section.experience .experience--white-box.hidden-div {
+        display: inline-block;
+    }
+
+    body section.experience .col-6.border-right {
+        border-right: none;
+        min-height: 446px;
+        border-bottom: none;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    body section.experience .col-6.border-right h3 {
+        display: inline-block;
+        width: 100%;
+    }
+    body section.experience .col-6.mypadding h3 {
+        display: none;
+    }
+    body section.experience .col-6.border-rigth {
+        padding-right: 0;
+    }
+    body section.experience .col-6.mypadding {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    body section.experience {
+        overflow: hidden;
+    }
+    body section.experience .experience--white-box:after {
+        display: none;
+    }
+    body section.experience .experience--white-box .experience--white-box-col1 {
+        max-width: 100%;
+    }
+}
+@media (max-width: 660px) {
+    body section.details .col-6.competences .details--item .details--item--progressbar {
+        float: none;
+        width: 100%;
+    }
+    body section.details .col-6.competences .details--item p.details--item--p {
+        text-align: center;
+        width: 100%;
+    }
+    body section.details .col-6.competences .row.space {
+        margin-right: 0;
+    }
+}
+@media (max-width: 495px) {
+    body h1 {
+        font-size: 52px;
+    }
+    body h2 {
+        font-size: 38px;
+    }
+    body h3 {
+        font-size: 34px;
+    }
+    body header.header .row.border-line .person--info {
+        font-size: 20px;
+    }
+    body section.details .col-6.competences .details--item p.details--item--p {
+        font-size: 20px;
+    }
+    body section.experience .experience--white-box p.experience--white-box--p--descript {
+        font-size: 18px;
+    }
+    body section.experience .experience--white-box span.experience--white-box--span--year {
+        font-size: 50px;
+    }
+}
+@media (max-width: 470px) {
+    body section.details .col-6.interest .interest--box .interest--box--item4 {
+        left: 110px;
+        top: 210px;
+    }
+}
+@media (max-width: 425px) {
+    body header.header .row.border-line .person--info p.person--info--p {
+        width: 220px;
+    }
+}
+@media (max-width: 400px) {
+    body section.details .col-6.interest .interest--box .interest--box--item4 {
+        left: 140px;
+        top: 210px;
+    }
+    body section.details .col-6.interest .interest--box .interest--box--item2 {
+        left: 0;
+        top: 82px;
+    }
+    body section.details .col-6.interest .interest--box .interest--box--item3 {
+        left: 0;
+        top: 250px;
+    }
+    body section.details .col-6.interest .interest--box .interest--box--item1 {
+        left: 90px;
+        top: -30px;
+    }
+    body section.details .col-6.interest .interest--box .interest--box--item4 {
+        left: -19px;
+        top: 210px;
+    }
+    body section.details .col-6.interest .interest--box .interest--box--item3 {
+        left: 80px;
+        top: 250px;
+    }
+}
+@media (max-width: 399px) {
+    body section.formation2 .formation2--line .formation2--line-box .formation2--line-label p {
+        font-size: 16px;
+    }
+    body section.formation2 .formation2--line .formation2--line-box .formation2--line-label.position1c {
+        top: 70px;
+        left: 30px;
+    }
+    body section.formation2 .formation2--line .formation2--line-box .formation2--line-label.position3c {
+        top: 650px;
+        left: 40px;
+    }
+    body section.formation2 .formation2--line .formation2--line-box .formation2--line-label.position4c {
+        top: 940px;
+        left: 54px;
+    }
+    body section.formation2 .formation2--line {
+        margin-bottom: 110px;
+    }
+}
